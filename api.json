@@ -1,10 +1,11 @@
 {
-    "active": "on",
-    "ban": "35579ac3a921fd69",
-    "inters": "8f13193479013b7d",
-    "native": "f7c73fbb90a71832",
-    "games_4d" : "inters",
-    "live"  : "ban",
-    "alat"  : "native",
-    "generator_ln":"off"
+    "active"        : "on",
+    "ban"           : "35579ac3a921fd69",
+    "inters"        : "8f13193479013b7d",
+    "native"        : "f7c73fbb90a71832",
+    "games_4d"      : "inters",
+    "live"          : "ban",
+    "alat"          : "native",
+    "prediksi"      : "native",
+    "generator_ln"  :"off"
 }
