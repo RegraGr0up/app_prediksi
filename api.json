@@ -5,7 +5,7 @@
     "native"        : "f7c73fbb90a71832",
     "games_4d"      : "inters",
     "live"          : "native",
-    "alat"          : "native",
-    "prediksi"      : "native",
+    "alat"          : "inters",
+    "prediksi"      : "inters",
     "generator_ln"  :"off"
 }
