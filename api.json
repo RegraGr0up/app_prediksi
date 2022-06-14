@@ -4,9 +4,9 @@
     "ban"           : "35579ac3a921fd69x",
     "inters"        : "8f13193479013b7d",
     "native"        : "f7c73fbb90a71832",
-    "games_4d"      : "native",
-    "live"          : "native",
-    "alat"          : "native",
-    "prediksi"      : "native",
+    "games_4d"      : "inters",
+    "live"          : "inters",
+    "alat"          : "inters",
+    "prediksi"      : "inters",
     "generator_ln"  :"off"
 }
