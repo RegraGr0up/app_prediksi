@@ -1,5 +1,5 @@
 {
-    "active"        : "off",
+    "active"        : "on",
     "main"          : "off",
     "timer"         : "3000",
     "count"         : "2",
