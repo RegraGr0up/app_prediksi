@@ -10,5 +10,7 @@
     "live"          : "inters",
     "alat"          : "inters",
     "prediksi"      : "inters",
-    "generator_ln"  : "off"
+    "generator_ln"  : "off",
+    "active_admob"  : "on",
+    "banner_admob"  : "ca-app-pub-3940256099942544/6300978111"
 }
