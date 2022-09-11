@@ -1,8 +1,8 @@
 {
-    "active"        : "off",
+    "active"        : "on",
     "main"          : "of",
     "timer"         : "3000",
-    "count"         : "2",
+    "count"         : "4",
     "ban"           : "35579ac3a921fd69x",
     "inters"        : "8f13193479013b7d",
     "native"        : "f7c73fbb90a71832",
@@ -11,6 +11,6 @@
     "alat"          : "inters",
     "prediksi"      : "inters",
     "generator_ln"  : "off",
-    "active_admob"  : "off",
+    "active_admob"  : "on",
     "banner_admob"  : "ca-app-pub-8904731549582636/1595621570"
 }
