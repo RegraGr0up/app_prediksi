@@ -1,5 +1,7 @@
 {
     "active"        : "on",
+    "review_update" : "off",
+    "version_ads_off": "",
     "main"          : "of",
     "timer"         : "3000",
     "count"         : "2",
