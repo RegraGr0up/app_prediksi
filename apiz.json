@@ -1,0 +1,18 @@
+{
+    "activex"        : "on",
+    "review_updatex" : "off",
+    "version_ads_offx": "",
+    "mainx"          : "off",
+    "timerx"         : "3000",
+    "countx"         : "2",
+    "banx"           : "",
+    "intersx"        : "90f5eebbe78eba4d",
+    "nativex"        : "",
+    "games_4dx"      : "inters",
+    "livex"          : "inters",
+    "alatx"          : "inters",
+    "prediksix"      : "inters",
+    "generator_lnx"  : "off",
+    "active_admobx"  : "off",
+    "banner_admobx"  : ""
+}
